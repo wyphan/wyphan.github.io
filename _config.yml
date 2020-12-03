@@ -24,6 +24,13 @@ url: "https://wyphan.github.io" # the base hostname & protocol for your site, e.
 #twitter_username: jekyllrb
 github_username:  wyphan
 
+# Assets
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
