@@ -5,8 +5,8 @@
 layout: home
 ---
 
-wyphan's home page
-==================
+home page
+=========
 
 Nothing to see here, yet.
 
