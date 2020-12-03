@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="420"
+   height="420"
+   viewBox="0 0 420 420"
+   sodipodi:docname="wyphan.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/wyp/Pictures/wyphan.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3738"
+     inkscape:window-height="2049"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="4.4952381"
+     inkscape:cx="153.94206"
+     inkscape:cy="215.72784"
+     inkscape:window-x="102"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#5fc261;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 35,35 h 71 l -1,140 h 70 V 35 h 70 v 140 h 70 V 35 h 70 v 210 h -70 v 70 h 70 v 70 H 245 V 245 H 175 V 385 H 35 v -70 h 70 V 245 H 35 c 0,-70 0,-140 0,-210 z"
+     id="path16"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+  <path
+     style="fill:#ffff00;stroke:#ff6600;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50196081;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.25098041"
+     d="m 35,35 h 70 v 140 h 70 V 35 h 70 v 0 140 h 70 V 35 h 70 v 175 h -35 v 35 H 70 V 210 H 35 Z"
+     id="path18"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#0000ff;stroke:#000080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50196081;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.25098041"
+     d="m 35,245 v -35 h 35 v -35 h 315 v 70 h -70 v 70 h 70 v 35 h -35 v 35 H 280 V 350 H 245 V 245 h -70 v 105 h -35 v 35 H 70 v -70 h 35 v -70 z"
+     id="path4531"
+     inkscape:connector-curvature="0" />
+</svg>
