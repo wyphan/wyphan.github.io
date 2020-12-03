@@ -26,7 +26,6 @@ github_username:  wyphan
 
 # Build settings
 markdown: kramdown
-theme: hacker
 plugins:
   - jekyll-feed
 
