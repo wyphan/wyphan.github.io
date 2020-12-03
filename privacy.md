@@ -5,4 +5,4 @@ privacy policy
 * I have no need nor interest to hoard your personal data.
 * Any cookies you might get from visiting this website are set by GitHub, so it's beyond my control.
 
-[home](index.md)
+[home](index)

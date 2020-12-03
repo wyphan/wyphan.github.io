@@ -10,4 +10,4 @@ home page
 
 Nothing to see here, yet.
 
-[privacy policy](privacy.md) | [terms of service](tos.md)
+[privacy policy](privacy) | [terms of service](tos)
