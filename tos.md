@@ -1,4 +1,4 @@
-Terms of Service
+terms of service
 ================
 
 * Just don't hack me or DDoS me, okay?

@@ -1,4 +1,4 @@
-Privacy Policy
+privacy policy
 ==============
 
 * I believe that the EU's GDPR is a good thing. I'll try my best to abide by those regulations (despite it not being in effect in the US).
