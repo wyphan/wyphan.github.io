@@ -3,7 +3,7 @@ layout: post
 title:  "Remove Old Kernels and Snaps in Ubuntu with a One-Liner Command"
 date:   2020-12-17 12:57:00 -0500
 author: wyphan
-categories: logfile kernel snap
+categories: logfile
 ---
 
 ## Remove Old Kernels in Ubuntu with a One-Liner Command
