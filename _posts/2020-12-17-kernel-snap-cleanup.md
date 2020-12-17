@@ -2,11 +2,11 @@
 layout: post
 title:  "Remove Old Kernels and Snaps in Ubuntu with a One-Liner Command"
 date:   2020-12-17 12:57:00 -0500
+author: wyphan
 categories: logfile kernel snap
 ---
 
-Remove Old Kernels in Ubuntu with a One-Liner Command
-=====================================================
+## Remove Old Kernels in Ubuntu with a One-Liner Command
 
 Based on [this blog post], which explains the different parts that make up the pipeline.
 
@@ -29,8 +29,7 @@ dpkg -l linux-* | awk '/^ii/{ print $2}' | grep -v -e `uname -r | cut -f1,2 -d"-
 
 On my computers, this command is also available locally as `~/bin/removekernel`. It will automatically invoke `sudo` when the `"-y"` switch is added.
 
-Remove Old Snaps with a One-Liner Command
-=========================================
+## Remove Old Snaps with a One-Liner Command
 
 Based on [this question](https://superuser.com/questions/1310825/how-to-remove-old-version-of-installed-snaps) on SuperUser. The `awk`-less version doesn't work, though.
 
