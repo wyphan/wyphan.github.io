@@ -8,7 +8,14 @@ layout: home
 home page
 =========
 
-Nothing to see here, yet.
+Recent log entries:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 [old website](http://logfile-wyp.blogspot.com/)
 
