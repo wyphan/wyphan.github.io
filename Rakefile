@@ -1,6 +1,6 @@
 begin
   require "bundler/gem_tasks"
-rescue LoadError
+  rescue LoadError
 end
 
 require "rake/testtask"
