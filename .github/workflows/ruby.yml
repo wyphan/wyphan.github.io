@@ -27,9 +27,9 @@ jobs:
       uses: ruby/setup-ruby@21351ecc0a7c196081abca5dc55b08f085efe09a
       with:
         ruby-version: 2.6
+    - name: Update rake
+      run: gem update rake
     - name: Install dependencies
       run: bundle install
-    - name: Update rake
-      run: bundle update rake
     - name: Run tests
       run: bundle exec rake
