@@ -10,4 +10,6 @@ home page
 
 Nothing to see here, yet.
 
+[old website](http://logfile-wyp.blogspot.com/)
+
 [privacy policy](privacy) | [terms of service](tos)
