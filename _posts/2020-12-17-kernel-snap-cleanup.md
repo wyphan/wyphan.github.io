@@ -27,7 +27,7 @@ Make sure only old kernel versions are listed. To actually remove them:
 dpkg -l linux-* | awk '/^ii/{ print $2}' | grep -v -e `uname -r | cut -f1,2 -d"-"` | grep -e [0-9] | grep -E "(image|headers|modules|tools)" | grep -v "hwe" | xargs sudo apt -y purge
 ``` 
 
-On my computers, this command is also available locally as `~/bin/removekernel`. It will automatically invoke `sudo` when the `"-y"` switch is added.
+On my computers, this command is also available locally as `~/bin/removekernel`. It will automatically invoke `sudo` when the `"-y"` switch is added. Download here: [removekernel.sh](../../../../assets/scripts/removekernel.sh)
 
 ## Remove Old Snaps with a One-Liner Command
 
