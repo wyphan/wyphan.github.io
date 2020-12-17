@@ -7,6 +7,7 @@ Repository for wyphan's personal website on GitHub.io
 To build and test:
 ```
 bundle config set path 'vendor/cache'
+bundle update
 bundle install
 bundle exec jekyll server
 ```
