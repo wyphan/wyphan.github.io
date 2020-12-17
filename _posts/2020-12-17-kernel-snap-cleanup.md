@@ -47,4 +47,4 @@ The `LANG=C` ensures this one-liner to run on any locale, as explained in one of
 
 ---
 
-last edited: Dec 17, 2020 (WYP) | [home](site.url)
+last edited: Dec 17, 2020 (WYP) | [home]({{ site.url }})
