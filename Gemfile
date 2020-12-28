@@ -37,5 +37,6 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
-
-gem "rake", "~> 13.0"
+group :development do
+  gem "rake", "~> 13.0"
+end
