@@ -8,7 +8,7 @@ categories: logfile
 
 ## Remove Old Kernels in Ubuntu with a One-Liner Command
 
-Based on [this blog post], which explains the different parts that make up the pipeline.
+Based on [this blog post](http://tuxtweaks.com/2010/10/remove-old-kernels-in-ubuntu-with-one-command/), which explains the different parts that make up the pipeline.
 
 Edit (Mar 18, 2020): Added `grep -v "hwe"` to the pipeline to exclude [hardware enablement](https://wiki.ubuntu.com/Kernel/LTSEnablementStack) packages.
 
