@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -17,6 +14,7 @@ Recent log entries:
   {% endfor %}
 </ul>
 
-[old website](http://logfile-wyp.blogspot.com/)
+
+[exciting-plus](https://github.com/wyphan/exciting-plus-gpu/) | [test codes](https://github.com/wyphan/testcodes) | [tellico scripts](https://github.com/wyphan/tellico-scripts) | [old website](http://logfile-wyp.blogspot.com/)
 
 [privacy policy](privacy) | [terms of service](tos)
