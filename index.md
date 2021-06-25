@@ -7,6 +7,10 @@ layout: home
 home page
 =========
 
+This logfile mainly contains unintelligible rants, biased personal opinions, experimental notes (mostly failed ones), obscure equations (with or without derivations), and highly inefficient code snippets.
+
+WARNING: May contain nuts.
+
 Recent log entries:
 <ul>
   {% for post in site.posts %}

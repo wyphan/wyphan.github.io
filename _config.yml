@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: wyphan's logfile
+title: wyphan 2>&1 logfile
 email: wileamyp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This logfile mainly contains unintelligible rants, biased personal opinions,
-  experimental notes (mostly failed ones), obscure equations (with or without derivations),
-  and highly inefficient code snippets. WARNING: May contain nuts.
+  wyphan: command not found
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wyphan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
