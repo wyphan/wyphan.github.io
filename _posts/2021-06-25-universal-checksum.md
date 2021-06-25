@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remove Old Kernels and Snaps in Ubuntu with a One-Liner Command"
+title:  "Universal Checksum Checker for Linux"
 date:   2021-06-25 13:21:00 -0400
 author: wyphan
 categories: logfile
