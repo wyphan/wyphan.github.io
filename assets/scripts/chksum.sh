@@ -2,7 +2,7 @@
 
 help() {
   echo "Usage: $0 [file] [checksum]"
-  echo "Currently only supports MD5, SHA1, SHA256"
+  echo "Currently only supports MD5, SHA1, SHA256, SHA384, SHA512"
 }
 
 # Quick exit
