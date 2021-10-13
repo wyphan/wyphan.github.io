@@ -29,7 +29,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: url("/assets/img/honeycomb.png");
+    background: rgba(0,0,0,0.1);
+    background-image: url("/assets/img/honeycomb.png");
+    background-blend-mode: lighten;
     color: #eaeaea;
     font-size: 16px;
     line-height: 1.5;
@@ -59,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 li { line-height:1.4 }
 
 header {
-    background: rgba(0,0,0,1.0);
+    background: rgba(0,0,0,0.1);
     background-image: url("/assets/img/logfile.jpg");
     background-repeat: no-repeat;
     background-position: center;
