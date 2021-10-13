@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 li { line-height:1.4 }
 
 header {
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,1.0);
     background-image: url("/assets/img/logfile.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -231,4 +231,3 @@ a {
 
 .cf:after { clear:both }
 .cf { zoom:1 }
-
