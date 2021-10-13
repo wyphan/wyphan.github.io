@@ -29,7 +29,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.9);
     background-image: url("/assets/img/honeycomb.png");
     background-blend-mode: lighten;
     color: #eaeaea;
