@@ -14,8 +14,8 @@ Last week (Friday, October 8, 2021) I gave a talk at the [National Energy Resear
 * A recap of current trends in HPC from the past 20 years
 * Suggestions for [Perlmutter supercomputer](https://www.nersc.gov/systems/perlmutter/), which is a pre-exascale machine at NERSC
 
-Download here: [Slides](../../../../assets/pdf/20211008-JourneyTowardsExascaleComputing.pdf) [Recording](https://drive.google.com/file/d/1GTsqBmcxKnmAsd2y3VJEgGIn-f_4d9qg/view?usp=sharing)
+Download here: [Slides](../../../../assets/pdf/20211008-JourneyTowardsExascaleComputing.pdf) [Recording](https://drive.google.com/file/d/1PhpWIvweeja7Od6phBP0V2x_IhTRqR3l/view?usp=sharing)
 
 ---
 
-last edited: Oct 13, 2021 (WYP) | [home]({{ site.url }})
+last edited: Dec 15, 2021 (WYP) | [home]({{ site.url }})
