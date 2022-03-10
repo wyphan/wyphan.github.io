@@ -45,6 +45,13 @@ LANG=C snap list --all | awk '/disabled/{print $1, $3}' | while read snapname re
 
 The `LANG=C` ensures this one-liner to run on any locale, as explained in one of the comments in the SuperUser page.
 
+## Remove Unused Flatpak Packages with a One-Liner Command
+
+Finally, to round it up, I will quote the command posted on [this article](https://www.linuxuprising.com/2019/02/how-to-remove-unused-flatpak-runtimes.html) for cleaning up old/unused Flatpak packages:
+```
+flatpak uninstall --unused
+```
+
 ---
 
-last edited: Dec 17, 2020 (WYP) | [home]({{ site.url }})
+last edited: Mar 10, 2022 (WYP) | [home]({{ site.url }})
