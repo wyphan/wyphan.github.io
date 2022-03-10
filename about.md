@@ -1,18 +1,19 @@
 ---
-layout: page
-title: About
+layout: about
+title: about me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+| ![Photo]({{ "/assets/img/wileamyp-portrait.jpg" }}){: width="100" } | **Wileam Yonatan Phan** <br/>2009-2014, S.Si., Physics @ [Universitas Indonesia][fsk-ui] <br/>2016-2021, MS, Physics @ [University of Tennessee, Knoxville][phys-utk] <br/> [Google Scholar][googlescholar] <br/> [ORCID][orcid]
+|
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Just a lowly, scatter-brained software engineer / computational physicist, trying to break into the world of high-performance scientific computing.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you're into social media, send me a friend request at my (rarely updated) [Facebook page][fb] or [LinkedIn profile][linkedin]. Please note that I vet my friend requests and usually only accept requests from people that I actually know in real life. I am not on Twitter or Instagram.
 
-
-[jekyll-organization]: https://github.com/jekyll
+[fsk-ui]: https://physics.ui.ac.id/
+[phys-utk]: http://www.phys.utk.edu/
+[googlescholar]: https://scholar.google.com/citations?user=p85VQlcAAAAJ
+[orcid]: https://orcid.org/0000-0001-5621-5949
+[fb]: https://facebook.com/wileamyp
+[linkedin]: https://www.linkedin.com/in/wileam-phan-389633206/

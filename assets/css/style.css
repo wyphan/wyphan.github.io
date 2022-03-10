@@ -44,6 +44,10 @@ body {
     margin: 0 auto
 }
 
+.links {
+    text-align: center
+}
+
 section {
     display: block;
     margin:0 0 20px 0
@@ -176,7 +180,7 @@ th {
     padding: 5px 10px
 }
 
-td{ padding: 5px 10px }
+td { padding: 5px 10px }
 
 hr {
     height: 0;

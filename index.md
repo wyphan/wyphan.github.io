@@ -2,6 +2,7 @@
 layout: home
 ---
 
+{: style="text-align: center;"}
 [exciting-plus](https://github.com/wyphan/exciting-plus-gpu/) | [test codes](https://github.com/wyphan/testcodes) | [tellico scripts](https://github.com/wyphan/tellico-scripts) | [old website](http://logfile-wyp.blogspot.com/)
 
 home page
@@ -20,4 +21,4 @@ Recent log entries:
   {% endfor %}
 </ul>
 
-[privacy policy](privacy) | [terms of service](tos)
+
