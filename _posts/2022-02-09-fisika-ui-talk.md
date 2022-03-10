@@ -3,7 +3,8 @@ layout: post
 title:  "Weekly Seminar @ Dept. Fisika Universitas Indonesia"
 date:   2022-02-09 18:50:00 -0500
 author: wyphan
-categories: logfile talk
+categories: logfile
+tags: talk
 ---
 
 Today I am honored to present a talk for the weekly seminar at my _alma mater_, [Departemen Fisika, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA), Universitas Indonesia][fis-ui] titled "Towards Exascale Computing: Recent Trends in High-Performance Computing (HPC)". The slide deck can be accessed from my Google Drive [here][pdf]. The talk was simulcast over Zoom and YouTube; you can access the [recording][yt] on the official Dept. Fisika UI YouTube channel.

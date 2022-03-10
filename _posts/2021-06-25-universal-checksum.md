@@ -4,6 +4,7 @@ title:  "Universal Checksum Checker for Linux"
 date:   2021-06-25 13:21:00 -0400
 author: wyphan
 categories: logfile
+tags: linux
 ---
 
 If you use Linux, you probably don't realize that most likely you already have *all* the checksum checker utilities you need already available through [GNU Coreutils](http://www.gnu.org/software/coreutils/), including the most popular ones (MD5, SHA-1, SHA256).

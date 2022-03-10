@@ -3,7 +3,8 @@ layout: post
 title:  "NERSC Seminar: Journey Towards Exascale Computing"
 date:   2021-10-13 14:34:00 -0400
 author: wyphan
-categories: logfile talk
+categories: logfile
+tags: talk
 ---
 
 Last week (Friday, October 8, 2021) I gave a talk at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/), titled "Journey Towards Exascale Computing". The talk is roughly divided into three parts:

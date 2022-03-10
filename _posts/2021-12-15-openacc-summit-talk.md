@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "OpenACC Summit 2021"
+title:  "Invited Joint Talk @ OpenACC Summit 2021"
 date:   2021-12-15 14:34:00 -0400
-author: wyphan
-categories: logfile talk
+author: [ wyphan, womenflyplanes ]
+categories: logfile
+tags: talk
 ---
 
 During the [OpenACC Annual Summit 2021][openacc-summit], I and [Prof. Lenore R. Mullin][lenore-linkedin] gave an invited talk titled "A Transformation--Based Approach for the Design of Parallel/Distributed Scientific Software: the FFT".
