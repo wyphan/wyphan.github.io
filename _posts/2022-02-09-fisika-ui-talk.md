@@ -3,7 +3,7 @@ layout: post
 title:  "Weekly Seminar @ Dept. Fisika Universitas Indonesia"
 date:   2022-02-09 18:50:00 -0500
 author: wyphan
-categories: logfile
+categories: logfile talk
 ---
 
 ## Weekly Seminar @ Dept. Fisika Universitas Indonesia

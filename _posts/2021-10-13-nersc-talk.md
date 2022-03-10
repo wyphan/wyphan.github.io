@@ -3,7 +3,7 @@ layout: post
 title:  "NERSC Seminar: Journey Towards Exascale Computing"
 date:   2021-10-13 14:34:00 -0400
 author: wyphan
-categories: logfile
+categories: logfile talk
 ---
 
 ## NERSC Seminar: Journey Towards Exascale Computing

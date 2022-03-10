@@ -3,7 +3,7 @@ layout: post
 title:  "OpenACC Summit 2021"
 date:   2021-12-15 14:34:00 -0400
 author: wyphan
-categories: logfile
+categories: logfile talk
 ---
 
 ## OpenACC Summit 2021
