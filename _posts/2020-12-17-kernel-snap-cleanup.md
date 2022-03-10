@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remove Old Kernels and Snaps in Ubuntu with a One-Liner Command"
+title:  "Remove Old Kernels, Snaps, and Flatpak packages in Ubuntu with a One-Liner Command"
 date:   2020-12-17 12:57:00 -0500
 author: wyphan
 categories: logfile
