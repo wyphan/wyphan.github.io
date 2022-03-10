@@ -6,8 +6,6 @@ author: wyphan
 categories: logfile talk
 ---
 
-## NERSC Seminar: Journey Towards Exascale Computing
-
 Last week (Friday, October 8, 2021) I gave a talk at the [National Energy Research Scientific Computing Center (NERSC)](https://www.nersc.gov/), titled "Journey Towards Exascale Computing". The talk is roughly divided into three parts:
 
 * My High Performance Computing (HPC) background

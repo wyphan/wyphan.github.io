@@ -6,8 +6,6 @@ author: wyphan
 categories: logfile talk
 ---
 
-## OpenACC Summit 2021
-
 During the [OpenACC Annual Summit 2021][openacc-summit], I and [Prof. Lenore R. Mullin][lenore-linkedin] gave an invited talk titled "A Transformation--Based Approach for the Design of Parallel/Distributed Scientific Software: the FFT".
 
 We presented a brief summary of Prof. Mullin's Mathematics of Arrays (MoA) theory and our ongoing work on porting the OpenMP version of her Fast Fourier Transform (FFT) algorithm to the [Cori-GPU][cori-gpu] partition at NERSC using OpenACC. The complete FFT algorithm and code is described in an [arXiv preprint][rosenkrantz] by Rosenkrantz *et al.* (2008).
