@@ -4,7 +4,7 @@ title: about me
 permalink: /about/
 ---
 
-| ![Photo]({{ "/assets/img/wileamyp-portrait.jpg" }}){: width="100" } | **Wileam Yonatan Phan** <br/>2009-2014, S.Si., Physics @ [Universitas Indonesia][fsk-ui] <br/>2016-2021, MS, Physics @ [University of Tennessee, Knoxville][phys-utk] <br/> [Google Scholar][googlescholar] <br/> [ORCID][orcid] <br/> [CV][cv]
+| ![Photo]({{ "/assets/img/wileamyp-portrait.jpg" }}){: width="100" } | **Wileam Yonatan Phan** <br/>2009-2014, S.Si., Physics @ [Universitas Indonesia][fsk-ui] <br/>2016-2021, MS, Physics @ [University of Tennessee, Knoxville][phys-utk] <br/> [Google Scholar][googlescholar] <br/> [ORCID][orcid] <br/> [Curriculum Vitae][cv]
 |
 
 Just a lowly, scatter-brained software engineer / computational physicist, trying to break into the world of high-performance scientific computing.
@@ -15,6 +15,6 @@ If you're into social media, send me a friend request at my (rarely updated) [Fa
 [phys-utk]: http://www.phys.utk.edu/
 [googlescholar]: https://scholar.google.com/citations?user=p85VQlcAAAAJ
 [orcid]: https://orcid.org/0000-0001-5621-5949
-[cv]: ../assets/pdf/20220418-wyphan-CV.pdf
+[cv]: /assets/pdf/20220427-wyphan-CV.pdf
 [fb]: https://facebook.com/wileamyp
 [linkedin]: https://www.linkedin.com/in/wileam-phan-389633206/
