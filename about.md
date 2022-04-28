@@ -7,7 +7,7 @@ permalink: /about/
 | ![Photo]({{ "/assets/img/wileamyp-portrait.jpg" }}){: width="100" } | **Wileam Yonatan Phan** <br/>2009-2014, S.Si., Physics @ [Universitas Indonesia][fsk-ui] <br/>2016-2021, MS, Physics @ [University of Tennessee, Knoxville][phys-utk] <br/> [Google Scholar][googlescholar] <br/> [ORCID][orcid] <br/> [Curriculum Vitae][cv]
 |
 
-Just a lowly, scatter-brained software engineer / computational physicist, trying to break into the world of high-performance scientific computing.
+Just a lowly, scatter-brained software engineer / computational physicist, trying to break into the world of high-performance scientific computing. A natural polyglot, both in human languages and programming languages.
 
 If you're into social media, send me a friend request at my (rarely updated) [Facebook page][fb] or [LinkedIn profile][linkedin]. Please note that I vet my friend requests and usually only accept requests from people that I actually know in real life. I am not on Twitter or Instagram.
 
