@@ -15,6 +15,6 @@ If you're into social media, send me a friend request at my (rarely updated) [Fa
 [phys-utk]: http://www.phys.utk.edu/
 [googlescholar]: https://scholar.google.com/citations?user=p85VQlcAAAAJ
 [orcid]: https://orcid.org/0000-0001-5621-5949
-[cv]: /assets/pdf/20220427-wyphan-CV.pdf
+[cv]: /assets/pdf/20220512-wyphan-CV.pdf
 [fb]: https://facebook.com/wileamyp
 [linkedin]: https://www.linkedin.com/in/wileam-phan-389633206/
