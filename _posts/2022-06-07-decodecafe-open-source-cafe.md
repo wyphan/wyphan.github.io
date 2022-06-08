@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "DeCodeCafe Podcast (Open Source Cafe)"
-date:   2022-06-07 20:30:00 -0500
-author: wyphan, rahulkhinchi03, Vyom-Yadav
+date:   2022-06-07 20:30:00 -0400
+author: [ wyphan, rahulkhinchi03, Vyom-Yadav ]
 categories: logfile
-tags: [ talk, gsoc22 ]
+tags: talk gsoc22
 ---
 
 नमस्ते! (Namaste!)
@@ -16,6 +16,7 @@ We covered various topics, including, but not limited to: the GNU Compiler Colle
 Anyway, I encourage y'all to check the [full playlist for the podcast][yt] to see the wonderful world of open-source software -- the variety of topics covered, the lasting impact of the movement, tested tips and tricks for beginners, and so on. If you just wanna see my podcast appearance for brevity, it's Episode 9 and the title is "Contributing to GCC".
 
 > All izz well
+
 > -- Phunsukh Wangdu ("Rancho"), _3 Idiots_ (2009)
 
 [decodecafe]: https://linktr.ee/decodecafe
