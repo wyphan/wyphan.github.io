@@ -1,0 +1,33 @@
+pkg_config: checking for pkg-config for openssl... -------------------- not found
+
+LD_LIBRARY_PATH=.:/snap/ruby/353/lib pkg-config --exists openssl
+package configuration for openssl is not found
+--------------------
+
+LD_LIBRARY_PATH=.:/snap/ruby/353/lib "gcc -o conftest -I/snap/ruby/353/include/ruby-3.3.0/x86_64-linux -I/snap/ruby/353/include/ruby-3.3.0/ruby/backward -I/snap/ruby/353/include/ruby-3.3.0 -I.    -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdiv-by-zero -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wold-style-definition -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wmisleading-indentation -Wundef  -fPIC conftest.c  -L. -L/snap/ruby/353/lib -Wl,-rpath,/snap/ruby/353/lib -L. -L/build/ruby/parts/ruby/install/usr/lib -L/build/ruby/parts/ruby/install/usr/lib/x86_64-linux-gnu -fstack-protector-strong -rdynamic -Wl,-export-dynamic -Wl,--no-as-needed     -Wl,-rpath,/snap/ruby/353/lib -L/snap/ruby/353/lib -lruby  -lm -lpthread  -lc"
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libdl.so.2: undefined reference to `_dl_catch_error@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libdl.so.2: undefined reference to `_dl_sym@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_dlclose@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_allocate_rtsig_private@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_dlsym@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_siglongjmp@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_thread_freeres@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_current_sigrtmax_private@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libdl.so.2: undefined reference to `_dl_vsym@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_current_sigrtmin_private@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `_dl_make_stack_executable@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_longjmp@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_dlopen_mode@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libdl.so.2: undefined reference to `_dl_addr@GLIBC_PRIVATE'
+/usr/bin/ld: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined reference to `__libc_pthread_init@GLIBC_PRIVATE'
+collect2: error: ld returned 1 exit status
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
